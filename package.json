@@ -1,8 +1,0 @@
-{
-  "name": "pixelly-vercel",
-  "private": true,
-  "version": "1.0.0",
-  "scripts": {
-    "check": "node --check api/submit.js"
-  }
-}
